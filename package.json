@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://shortener-demo.netlify.com",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Yusuf <yusufsaidcopcu7079@gmail.com> (http://github.com/yusufsaidx)",
+  "license": "",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
